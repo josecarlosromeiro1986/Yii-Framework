@@ -135,6 +135,7 @@ class SiteController extends Controller
     {
         return $this->render('hello-world', [
             'saudacao' => 'Hello World / Olá Mundo',
+            'teste' => 'Bla Teste',
         ]);
     }
 }

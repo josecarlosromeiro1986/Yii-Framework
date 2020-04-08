@@ -1,1 +1,1 @@
-<?php echo $saudacao; ?>
+<?php echo $saudacao . ' - ' . $teste; ?>
